@@ -1,0 +1,44 @@
+[06-Oct-2024 08:55:27 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Core\Components\Migrations->run_migration(): The migration `fix_optimized_size_keys` successfully executed.
+[06-Oct-2024 08:55:27 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Core\Components\Migrations->run_migration(): The migration `fix_mime_type` successfully executed.
+[06-Oct-2024 08:55:27 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Core\Components\Migrations->run_migration(): The migration `fix_avif_with_zero_dimensions` successfully executed.
+[06-Oct-2024 08:55:30 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[06-Oct-2024 08:56:28 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 35
+[06-Oct-2024 08:56:38 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): End optimization of 35
+[06-Oct-2024 08:58:17 UTC] Erreur d’événement de replanification de tâche pour le crochet wp_privacy_delete_old_export_files. Code d’erreur : could_not_set. Message d’erreur : La liste des évènements planifiés n’a pas pu être sauvegardée.. Données : {"schedule":"hourly","args":[],"interval":3600}
+[06-Oct-2024 09:31:27 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 36
+[06-Oct-2024 10:11:17 UTC] [Image Optimizer]: error in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: Token Auth Guard Request Failed!: Invalid Token
+[06-Oct-2024 10:12:08 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 41
+[06-Oct-2024 10:12:08 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 42
+[06-Oct-2024 10:13:20 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 43
+[06-Oct-2024 11:40:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 57
+[06-Oct-2024 11:46:02 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 110
+[06-Oct-2024 11:46:04 UTC] [Image Optimizer]: error in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: Token Auth Guard Request Failed!: Invalid Token
+[06-Oct-2024 12:11:43 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 121
+[06-Oct-2024 12:11:43 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Optimization\Components\Upload_Optimization->optimize_image_on_upload(): Optimization error. Reason: Invalid WP image meta
+[06-Oct-2024 12:11:51 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 125
+[06-Oct-2024 12:11:52 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 127
+[06-Oct-2024 12:11:53 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 129
+[06-Oct-2024 16:06:20 UTC] [Image Optimizer]: error in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: Token Auth Guard Request Failed!: Invalid Token
+[06-Oct-2024 16:06:20 UTC] [Image Optimizer]: error in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: Token Auth Guard Request Failed!: Invalid Token
+[06-Oct-2024 16:06:20 UTC] [Image Optimizer]: error in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: Token Auth Guard Request Failed!: Invalid Token
+[06-Oct-2024 16:06:20 UTC] [Image Optimizer]: error in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: Token Auth Guard Request Failed!: Invalid Token
+[06-Oct-2024 16:06:20 UTC] [Image Optimizer]: error in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: Token Auth Guard Request Failed!: Invalid Token
+[06-Oct-2024 16:06:21 UTC] [Image Optimizer]: error in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: Token Auth Guard Request Failed!: Invalid Token
+[06-Oct-2024 16:06:21 UTC] [Image Optimizer]: error in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: Token Auth Guard Request Failed!: Invalid Token
+[06-Oct-2024 16:06:21 UTC] [Image Optimizer]: error in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: Token Auth Guard Request Failed!: Invalid Token
+[06-Oct-2024 16:06:21 UTC] [Image Optimizer]: error in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: Token Auth Guard Request Failed!: Invalid Token
+[06-Oct-2024 16:06:21 UTC] [Image Optimizer]: error in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: Token Auth Guard Request Failed!: Invalid Token
+[06-Oct-2024 16:06:21 UTC] [Image Optimizer]: error in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: Token Auth Guard Request Failed!: Invalid Token
+[06-Oct-2024 18:24:06 UTC] [Image Optimizer]: error in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: Token Auth Guard Request Failed!: Invalid Token
+[06-Oct-2024 18:24:06 UTC] [Image Optimizer]: error in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: Token Auth Guard Request Failed!: Invalid Token
+[06-Oct-2024 18:24:06 UTC] [Image Optimizer]: error in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: Token Auth Guard Request Failed!: Invalid Token
+[06-Oct-2024 18:24:06 UTC] [Image Optimizer]: error in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: Token Auth Guard Request Failed!: Invalid Token
+[06-Oct-2024 18:24:06 UTC] [Image Optimizer]: error in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: Token Auth Guard Request Failed!: Invalid Token
+[06-Oct-2024 18:24:06 UTC] [Image Optimizer]: error in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: Token Auth Guard Request Failed!: Invalid Token
+[06-Oct-2024 18:24:06 UTC] [Image Optimizer]: error in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: Token Auth Guard Request Failed!: Invalid Token
+[06-Oct-2024 18:24:06 UTC] [Image Optimizer]: error in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: Token Auth Guard Request Failed!: Invalid Token
+[06-Oct-2024 18:24:07 UTC] [Image Optimizer]: error in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: Token Auth Guard Request Failed!: Invalid Token
+[06-Oct-2024 18:24:07 UTC] [Image Optimizer]: error in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: Token Auth Guard Request Failed!: Invalid Token
+[06-Oct-2024 18:24:07 UTC] [Image Optimizer]: error in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: Token Auth Guard Request Failed!: Invalid Token
+[07-Oct-2024 13:38:18 UTC] PHP Warning:  include(C:\Users\hanon\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/polylang-fr_FR.l10n.php): Failed to open stream: No such file or directory in C:\Users\hanon\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
+[07-Oct-2024 13:38:18 UTC] PHP Warning:  include(): Failed opening 'C:\Users\hanon\Local Sites\la-vie-des-plantes\app\public/wp-content/languages/plugins/polylang-fr_FR.l10n.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\hanon\Local Sites\la-vie-des-plantes\app\public\wp-includes\l10n.php on line 1601
